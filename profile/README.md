@@ -1,5 +1,5 @@
 
-![blue-white logo](https://user-images.githubusercontent.com/74899441/133764254-15bde9ef-c7e5-4ab6-9fd1-f22346a35248.png)
+![blue-white logo-dark-bg](https://user-images.githubusercontent.com/74899441/133769951-e8e7cdd7-7e74-45bd-beb7-e267329fda46.png)
 
 # :sunny: Vision
 
