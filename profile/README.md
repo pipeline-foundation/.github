@@ -45,23 +45,23 @@ The following videos are concise technical presentations of our DevOps contribut
 [![pf_thumbnail_notepads](https://user-images.githubusercontent.com/74899441/133767701-d4c08d4c-22bd-4444-9039-24ceb7f9d2ff.png)](https://www.youtube.com/watch?v=g7v9TO4mFbg)
 > `Notepads` is a modern, lightweight text editor with a minimalist design. Our contribution to the project includes dependency management, code security scanning and a CI/CD pipeline covering all the necessary automation features. We wholeheartedly encourage you to check it out!
 
-### - MimeKit [[repo]](https://github.com/JasonStein/MimeKit)
+### - MimeKit [[repo]](https://github.com/jstedfast/MimeKit)
 [![pf_thumbnail_mimekit](https://user-images.githubusercontent.com/74899441/133768413-336dcbc8-ddc5-40e7-a36b-96f3276c7ec2.png)](https://www.youtube.com/watch?v=4ppEfl40kwQ)
 > `MimeKit` is a .NET MIME creation and parser library. Our contribution to MimeKit is a consolidation of three separate pipelines (one on Azure, one on Appveyor and one on Travis) into a single GitHub Actions CI/CD pipeline. The attention to detail we put in this project, reflects in its simplicity of execution.
 
-### - NanUI [[repo]](https://github.com/JasonStein/NanUI)
+### - NanUI [[repo]](https://github.com/NetDimension/NanUI)
 [![pf_thumbnail_nanui](https://user-images.githubusercontent.com/74899441/133768392-0d7c4d0b-ec68-4153-b9c7-13ddaff63121.png)](https://www.youtube.com/watch?v=xeeE6IjiAaU)
 > `NanUI` is this really awesome open source .NET project for .NET/.NET Core developers who want to use front-end technologies such as HTML/CSS to build user interfaces for Windows Form applications. Our contribution to NanUI is a robust and concise CI pipeline to allow the owners and contributors to know at all times if the project is in a healthy state or not.
 
-### - Terminal.Gui [[repo]](https://github.com/JasonStein/Terminal.Gui)
+### - Terminal.Gui [[repo]](https://github.com/migueldeicaza/gui.cs)
 [![pf_thumbnail_terminal gui](https://user-images.githubusercontent.com/74899441/133768375-0acf6efb-a9b8-4f63-a601-370984bba699.png)](https://www.youtube.com/watch?v=mUpt8kyGHx0)
 > `Terminal.Gui` or `gui.cs` is a toolkit for building console GUI apps for .NET, .NET Core, and Mono that works on Windows, Mac, and Linux. Since the project already had almost every one of its DevOps needs fulfilled, our contribution to `Terminal.Gui` is not huge by any means, but still we do believe that dependency management is important and very useful.
 
-### - RestSharp [[repo]](https://github.com/JasonStein/RestSharp)
+### - RestSharp [[repo]](https://github.com/restsharp/RestSharp)
 [![pf_thumbnail_restsharp](https://user-images.githubusercontent.com/74899441/133768362-2acf78ea-fc77-4672-9ef9-abc747941a42.png)](https://www.youtube.com/watch?v=GoolULpAhSQ)
 > `RestSharp` is a very useful REST and HTTP API Client for .NET and we encourage you to check it out. Our contribution to RestSharp includes dependency management and code security and quality scan.
 
-### - MIEngine [[repo]](https://github.com/JasonStein/MIEngine)
+### - MIEngine [[repo]](https://github.com/microsoft/MIEngine)
 [![pf_thumbnail_miengine](https://user-images.githubusercontent.com/74899441/133768338-5e868738-fecf-41fc-b9f2-46557c8884ca.png)](https://www.youtube.com/watch?v=BWOy1Ir41aU)
 > `MIEngine` is the Visual Studio MI Debug Engine that provides an open-source Visual Studio Debugger extension that works with MI-enabled debuggers such as gdb and lldb. Our contribution includes dependency management, code quality and security analysis and a development container configuration.
 
